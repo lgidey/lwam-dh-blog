@@ -1,14 +1,15 @@
 ---
 layout: post
-title:  "Count and compare words in Gibbon&Smith's text"
+title:  "Blog #1: Count and Sort Words"
 date:   2021-09-22 15:51:43 -0400
 categories: jekyll update
 ---
 *Python code for counting and sorting words from Gibbon's and Smith's text*
 
-You can find collab code here:
-[Count and Sort Words](https://colab.research.google.com/drive/10XYAnH-ZLkQWIex45-LszVp6JHz7XhCC?usp=sharing)
+You can find collab *code* here:
+[Count and Sort Words in Collab](https://colab.research.google.com/drive/10XYAnH-ZLkQWIex45-LszVp6JHz7XhCC?usp=sharing)
 
+Note you need to upload *'wealthofnations-gut.txt'* and *'declineandfall-gut.txt'* to your collab path to run the code.
 
 **Import python packages**
 ```python
@@ -158,7 +159,7 @@ Gutenberg-tm 55 1.4289462950020655
 Dutch 53 1.376984611547445
 ```
 
-**Analysis**
+**Analysis:**
 In gibbon's there are above 1 Million words and 'Roman' is ranked the highest with 2171 words
 In Gibbons the words with the most frequency such as hist, Christian Italy,
 Greek played role in the fall and decline of the the roman empire
